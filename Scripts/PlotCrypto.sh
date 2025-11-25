@@ -59,7 +59,7 @@ plot_price "binancecoin" "BNB" "Binance Coin"
 plot_price "ripple" "XRP" "XRP"
 plot_price "cardano" "ADA" "Cardano"
 plot_price "dogecoin" "DOGE" "Dogecoin"
-plot_price "toncoin" "TON" "Toncoin"
+plot_price "tron" "TRX" "Tron"
 plot_price "chainlink" "LINK" "Chainlink"
 plot_price "litecoin" "LTC" "Litecoin"
 

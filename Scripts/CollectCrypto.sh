@@ -9,7 +9,7 @@ SNAPSHOT_TIME_SQL="$(date -u +"%Y-%m-%d %H:%M:%S")"
 RAW_FILE="$DATA_DIR/crypto_${TIMESTAMP}.json"
 LOG_FILE="$LOG_DIR/collect_crypto.log"
 
-IDS="bitcoin,ethereum,solana,binancecoin,ripple,cardano,dogecoin,toncoin,chainlink,litecoin"
+IDS="bitcoin,ethereum,solana,binancecoin,ripple,cardano,dogecoin,tron,chainlink,litecoin"
 URL="https://api.coingecko.com/api/v3/simple/price?ids=${IDS}&vs_currencies=usd&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true&precision=full"
 
 DB_NAME="cryptocurrency_multicoin_tracker"
