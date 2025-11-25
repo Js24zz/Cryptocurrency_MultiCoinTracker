@@ -50,85 +50,17 @@ EOF
     log "Saved $OUTPUT"
 }
 
-plot_change() {
-    COIN_ID="$1"
-    SYMBOL="$2"
-    TITLE="$3"
-    OUTPUT="$PLOTS_DIR/${SYMBOL}_change_24h.png"
-    TMP_DATA="$(mktemp)"
-
-    mysql_query "USE $DB_NAME; SELECT DATE_FORMAT(s.snapshot_time,'%Y-%m-%d %H:%i:%s'), p.change_24h_pct FROM snapshots s JOIN coin_prices p ON s.id = p.snapshot_id JOIN coins c ON c.id = p.coin_id WHERE c.coingecko_id='$COIN_ID' ORDER BY s.snapshot_time;" > "$TMP_DATA" || true
-
-    if [ ! -s "$TMP_DATA" ]; then
-        log "No data for $COIN_ID change"
-        rm -f "$TMP_DATA"
-        return
-    fi
-
-    gnuplot <<EOF
-set terminal pngcairo size 1280,720
-set output '$OUTPUT'
-set datafile separator '\t'
-set xdata time
-set timefmt '%Y-%m-%d %H:%M:%S'
-set format x '%m-%d\n%H:%M'
-set grid
-set title '$TITLE 24h Change (%)'
-set xlabel 'Time'
-set ylabel '24h Change (%)'
-plot '$TMP_DATA' using 1:2 with lines lw 2 title '$SYMBOL'
-EOF
-
-    rm -f "$TMP_DATA"
-    log "Saved $OUTPUT"
-}
-
-plot_volume() {
-    COIN_ID="$1"
-    SYMBOL="$2"
-    TITLE="$3"
-    OUTPUT="$PLOTS_DIR/${SYMBOL}_volume_24h.png"
-    TMP_DATA="$(mktemp)"
-
-    mysql_query "USE $DB_NAME; SELECT DATE_FORMAT(s.snapshot_time,'%Y-%m-%d %H:%i:%s'), p.volume_24h_usd FROM snapshots s JOIN coin_prices p ON s.id = p.snapshot_id JOIN coins c ON c.id = p.coin_id WHERE c.coingecko_id='$COIN_ID' ORDER BY s.snapshot_time;" > "$TMP_DATA" || true
-
-    if [ ! -s "$TMP_DATA" ]; then
-        log "No data for $COIN_ID volume"
-        rm -f "$TMP_DATA"
-        return
-    fi
-
-    gnuplot <<EOF
-set terminal pngcairo size 1280,720
-set output '$OUTPUT'
-set datafile separator '\t'
-set xdata time
-set timefmt '%Y-%m-%d %H:%M:%S'
-set format x '%m-%d\n%H:%M'
-set grid
-set title '$TITLE 24h Volume (USD)'
-set xlabel 'Time'
-set ylabel '24h Volume (USD)'
-plot '$TMP_DATA' using 1:2 with lines lw 2 title '$SYMBOL'
-EOF
-
-    rm -f "$TMP_DATA"
-    log "Saved $OUTPUT"
-}
-
-log "Generating cryptocurrency plots"
+log "Generating cryptocurrency price plots"
 
 plot_price "bitcoin" "BTC" "Bitcoin"
 plot_price "ethereum" "ETH" "Ethereum"
 plot_price "solana" "SOL" "Solana"
 plot_price "binancecoin" "BNB" "Binance Coin"
 plot_price "ripple" "XRP" "XRP"
+plot_price "cardano" "ADA" "Cardano"
+plot_price "dogecoin" "DOGE" "Dogecoin"
+plot_price "toncoin" "TON" "Toncoin"
+plot_price "chainlink" "LINK" "Chainlink"
+plot_price "litecoin" "LTC" "Litecoin"
 
-plot_change "bitcoin" "BTC" "Bitcoin"
-plot_change "ethereum" "ETH" "Ethereum"
-plot_change "solana" "SOL" "Solana"
-
-plot_volume "bitcoin" "BTC" "Bitcoin"
-plot_volume "ethereum" "ETH" "Ethereum"
-
-log "Finished generating plots"
+log "Finished generating
