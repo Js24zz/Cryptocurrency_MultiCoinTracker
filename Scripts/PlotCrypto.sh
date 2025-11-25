@@ -27,8 +27,8 @@ plot_price() {
     mysql_query "USE $DB_NAME; SELECT DATE_FORMAT(s.snapshot_time,'%Y-%m-%d %H:%i:%s'), p.price_usd FROM snapshots s JOIN coin_prices p ON s.id = p.snapshot_id JOIN coins c ON c.id = p.coin_id WHERE c.coingecko_id='$COIN_ID' ORDER BY s.snapshot_time;" > "$TMP_DATA" || true
 
     if [ ! -s "$TMP_DATA" ]; then
-        log "No data for $COIN_ID price"
-        rm -f "$TMP_DATA"
+        log \"No data for $COIN_ID price\"
+        rm -f \"$TMP_DATA\"
         return
     fi
 
@@ -50,7 +50,7 @@ EOF
     log "Saved $OUTPUT"
 }
 
-log "Generating cryptocurrency price plots"
+log "Generating price plots for 10 cryptocurrencies"
 
 plot_price "bitcoin" "BTC" "Bitcoin"
 plot_price "ethereum" "ETH" "Ethereum"
@@ -63,4 +63,4 @@ plot_price "tron" "TRX" "Tron"
 plot_price "chainlink" "LINK" "Chainlink"
 plot_price "litecoin" "LTC" "Litecoin"
 
-log "Finished generating
+log "Finished generating price plots"
