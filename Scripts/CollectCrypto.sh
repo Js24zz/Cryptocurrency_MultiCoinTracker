@@ -11,6 +11,7 @@ LOG_FILE="$LOG_DIR/collect_crypto.log"
 
 IDS="bitcoin,ethereum,solana,binancecoin,ripple,cardano,dogecoin,toncoin,chainlink,litecoin"
 URL="https://api.coingecko.com/api/v3/simple/price?ids=${IDS}&vs_currencies=usd&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true&precision=full"
+
 DB_NAME="cryptocurrency_multicoin_tracker"
 
 mkdir -p "$DATA_DIR" "$LOG_DIR"
