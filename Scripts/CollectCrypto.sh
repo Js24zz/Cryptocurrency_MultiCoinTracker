@@ -10,8 +10,7 @@ RAW_FILE="$DATA_DIR/crypto_${TIMESTAMP}.json"
 LOG_FILE="$LOG_DIR/collect_crypto.log"
 
 IDS="bitcoin,ethereum,solana,binancecoin,ripple,cardano,dogecoin,tron,chainlink,litecoin"
-URL="https://api.coingecko.com/api/v3/simple/price?ids=${IDS}&vs_currencies=usd&include_market_cap=true&include_24hr_vol=true&include_24hr_change=true&precision=full"
-
+URL="https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=${IDS}&price_change_percentage=24h"
 DB_NAME="cryptocurrency_multicoin_tracker"
 
 mkdir -p "$DATA_DIR" "$LOG_DIR"
@@ -51,18 +50,18 @@ if [ -z "$SNAPSHOT_ID" ]; then
     exit 1
 fi
 
-PARSED_LINES="$(jq -r 'to_entries[] | [.key, .value.usd, .value.usd_market_cap, .value.usd_24h_vol, .value.usd_24h_change] | @tsv' "$RAW_FILE")"
+PARSED_LINES="$(jq -r '.[] | [.id, .current_price, .market_cap, .total_volume, .low_24h, .high_24h, .price_change_percentage_24h] | @tsv' "$RAW_FILE")"
 
 if [ -z "$PARSED_LINES" ]; then
     log "Error: Parsed data is empty"
     exit 1
 fi
 
-while IFS=$'\t' read -r COIN_ID PRICE MARKET_CAP VOLUME CHANGE; do
+while IFS=$'\t' read -r COIN_ID PRICE MARKET_CAP VOLUME LOW HIGH CHANGE; do
     if [ -z "$COIN_ID" ]; then
         continue
     fi
-    mysql_exec "USE $DB_NAME; INSERT INTO coin_prices (snapshot_id, coin_id, price_usd, market_cap_usd, volume_24h_usd, change_24h_pct) VALUES ($SNAPSHOT_ID, (SELECT id FROM coins WHERE coingecko_id='$COIN_ID'), $PRICE, $MARKET_CAP, $VOLUME, $CHANGE);"
+    mysql_exec "USE $DB_NAME; INSERT INTO coin_prices (snapshot_id, coin_id, price_usd, market_cap_usd, volume_24h_usd, low_24h_usd, high_24h_usd, change_24h_pct) VALUES ($SNAPSHOT_ID, (SELECT id FROM coins WHERE coingecko_id='$COIN_ID'), $PRICE, $MARKET_CAP, $VOLUME, $LOW, $HIGH, $CHANGE);"
 done <<< "$PARSED_LINES"
 
 log "Inserted data for snapshot $SNAPSHOT_ID"

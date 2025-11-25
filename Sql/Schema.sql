@@ -24,10 +24,13 @@ CREATE TABLE coin_prices (
     price_usd DECIMAL(18,8) NOT NULL,
     market_cap_usd DECIMAL(20,2),
     volume_24h_usd DECIMAL(20,2),
+    low_24h_usd DECIMAL(18,8),
+    high_24h_usd DECIMAL(18,8),
     change_24h_pct DECIMAL(7,2),
     FOREIGN KEY (snapshot_id) REFERENCES snapshots(id),
     FOREIGN KEY (coin_id) REFERENCES coins(id)
 );
+
 
 CREATE UNIQUE INDEX idx_coin_snapshot ON coin_prices (snapshot_id, coin_id);
 
