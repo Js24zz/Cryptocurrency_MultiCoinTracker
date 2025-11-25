@@ -23,8 +23,13 @@ mysql_exec() {
     mysql -N -B -e "$1"
 }
 
+if ! command -v jq >/dev/null 2>&1; then
+    log "Error: jq is not installed"
+    exit 1
+fi
+
 log "Starting collection"
-if curl -sS "$URL" -o "$RAW_FILE"; then
+if curl -sS "$URL" | jq '.' > "$RAW_FILE"; then
     if [ -s "$RAW_FILE" ]; then
         log "Saved $RAW_FILE"
     else
@@ -35,11 +40,6 @@ if curl -sS "$URL" -o "$RAW_FILE"; then
 else
     log "Error: curl failed"
     rm -f "$RAW_FILE" || true
-    exit 1
-fi
-
-if ! command -v jq >/dev/null 2>&1; then
-    log "Error: jq is not installed"
     exit 1
 fi
 
