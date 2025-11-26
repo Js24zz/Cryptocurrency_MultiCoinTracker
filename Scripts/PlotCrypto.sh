@@ -10,7 +10,7 @@ DB_NAME="cryptocurrency_multicoin_tracker"
 mkdir -p "$PLOTS_DIR" "$LOG_DIR"
 
 log() {
-    echo "$(date -u +"%Y-%m-%dT%H:%M:%SZ") $1" | tee -a "$LOG_FILE"
+    echo "$(date +"%Y-%m-%dT%H:%M:%S") $1" | tee -a "$LOG_FILE"
 }
 
 mysql_query() {
@@ -27,12 +27,12 @@ plot_price() {
     mysql_query "USE $DB_NAME; SELECT DATE_FORMAT(s.snapshot_time,'%Y-%m-%d %H:%i:%s'), p.price_usd FROM snapshots s JOIN coin_prices p ON s.id = p.snapshot_id JOIN coins c ON c.id = p.coin_id WHERE c.coingecko_id='$COIN_ID' ORDER BY s.snapshot_time;" > "$TMP_DATA" || true
 
     if [ ! -s "$TMP_DATA" ]; then
-        log \"No data for $COIN_ID price\"
-        rm -f \"$TMP_DATA\"
+        log "No data for $COIN_ID price"
+        rm -f "$TMP_DATA"
         return
     fi
 
-        gnuplot <<EOF
+    gnuplot <<EOF
 set terminal pngcairo size 1280,720
 set output '$OUTPUT'
 set datafile separator '\t'
@@ -65,3 +65,4 @@ plot_price "chainlink" "LINK" "Chainlink"
 plot_price "litecoin" "LTC" "Litecoin"
 
 log "Finished generating price plots"
+

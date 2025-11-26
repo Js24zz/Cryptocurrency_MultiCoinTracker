@@ -4,8 +4,8 @@ set -euo pipefail
 BASE_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 DATA_DIR="$BASE_DIR/Data"
 LOG_DIR="$BASE_DIR/Logs"
-TIMESTAMP="$(date -u +"%Y%m%dT%H%M%SZ")"
-SNAPSHOT_TIME_SQL="$(date -u +"%Y-%m-%d %H:%M:%S")"
+TIMESTAMP="$(date +"%Y%m%dT%H%M%S")"
+SNAPSHOT_TIME_SQL="$(date +"%Y-%m-%d %H:%M:%S")"
 RAW_FILE="$DATA_DIR/crypto_${TIMESTAMP}.json"
 LOG_FILE="$LOG_DIR/collect_crypto.log"
 
@@ -16,7 +16,7 @@ DB_NAME="cryptocurrency_multicoin_tracker"
 mkdir -p "$DATA_DIR" "$LOG_DIR"
 
 log() {
-    echo "$(date -u +"%Y-%m-%dT%H:%M:%SZ") $1" | tee -a "$LOG_FILE"
+    echo "$(date +"%Y-%m-%dT%H:%M:%S") $1" | tee -a "$LOG_FILE"
 }
 
 mysql_exec() {
