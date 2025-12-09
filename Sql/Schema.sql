@@ -31,7 +31,6 @@ CREATE TABLE coin_prices (
     FOREIGN KEY (coin_id) REFERENCES coins(id)
 );
 
-
 CREATE UNIQUE INDEX idx_coin_snapshot ON coin_prices (snapshot_id, coin_id);
 
 INSERT INTO coins (coingecko_id, symbol, name) VALUES
@@ -42,6 +41,6 @@ INSERT INTO coins (coingecko_id, symbol, name) VALUES
 ('ripple', 'XRP', 'XRP'),
 ('cardano', 'ADA', 'Cardano'),
 ('dogecoin', 'DOGE', 'Dogecoin'),
-('toncoin', 'TON', 'Toncoin'),
+('tron', 'TRX', 'Tron'),
 ('chainlink', 'LINK', 'Chainlink'),
 ('litecoin', 'LTC', 'Litecoin');

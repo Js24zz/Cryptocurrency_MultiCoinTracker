@@ -38,13 +38,13 @@ set output '$OUTPUT'
 set datafile separator '\t'
 set xdata time
 set timefmt '%Y-%m-%d %H:%M:%S'
-set format x '%m-%d %H:%M'
+set format x '%m-%d\n%H:%M'
 set xtics rotate by -45
 set grid
 set title '$TITLE Price (USD)'
 set xlabel 'Date & Time'
 set ylabel 'Price (USD)'
-plot '$TMP_DATA' using 1:2 with lines lw 2 title '$SYMBOL'
+plot '$TMP_DATA' using 1:2 with linespoints lw 2 pt 7 ps 1.0 title '$SYMBOL'
 EOF
 
     rm -f "$TMP_DATA"
