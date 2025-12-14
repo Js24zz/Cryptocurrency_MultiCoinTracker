@@ -3,7 +3,8 @@ set -euo pipefail
 
 DB_NAME="cryptocurrency_multicoin_tracker"
 
-sudo mysql -t -e "
+mysql -t -e "
+
 USE $DB_NAME;
 SELECT
   s.snapshot_time AS Snapshot_Time,

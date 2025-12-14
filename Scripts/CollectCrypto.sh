@@ -21,7 +21,7 @@ log() {
 }
 
 mysql_exec() {
-  sudo mysql -N -B -e "$1"
+  mysql -N -B -e "$1"
 }
 
 if ! command -v jq >/dev/null 2>&1; then
