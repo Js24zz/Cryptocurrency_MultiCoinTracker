@@ -1,0 +1,147 @@
+2025-12-11T22:54:30 Downloading from CoinGecko (attempt 1)...
+2025-12-11T22:54:31 Saved JSON → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251211T225430.json
+2025-12-11T22:54:32 Snapshot ID = 34
+2025-12-11T22:54:32 Data inserted successfully
+2025-12-11T22:58:31 Downloading from CoinGecko (attempt 1)...
+2025-12-11T22:58:33 Saved JSON → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251211T225831.json
+2025-12-11T22:58:33 Snapshot ID = 35
+2025-12-11T22:58:33 Data inserted successfully
+2025-12-11T23:08:08 Downloading data from CoinGecko (attempt 1)...
+2025-12-11T23:08:10 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251211T230808.json
+2025-12-11T23:08:10 Using snapshot_id=36
+2025-12-11T23:08:10 "Inserted
+2025-12-11T23:13:53 Downloading data from CoinGecko (attempt 1)...
+2025-12-11T23:13:55 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251211T231353.json
+2025-12-11T23:13:55 Using snapshot_id=37
+2025-12-11T23:13:56 Inserted data for snapshot 37
+2025-12-12T00:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-12T00:00:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251212T000001.json
+2025-12-12T00:13:35 Downloading data from CoinGecko (attempt 1)...
+2025-12-12T00:13:37 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251212T001335.json
+2025-12-12T00:13:37 Using snapshot_id=38
+2025-12-12T00:13:37 Inserted data for snapshot 38
+2025-12-12T00:27:35 Downloading data from CoinGecko (attempt 1)...
+2025-12-12T00:27:36 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251212T002735.json
+2025-12-12T00:27:36 Using snapshot_id=39
+2025-12-12T00:27:36 Inserted data for snapshot 39
+2025-12-12T12:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-12T12:00:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251212T120001.json
+2025-12-12T12:00:02 Using snapshot_id=40
+2025-12-12T12:00:02 Inserted data for snapshot 40
+2025-12-12T12:30:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-12T12:30:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251212T123001.json
+2025-12-12T12:30:02 Using snapshot_id=41
+2025-12-12T12:30:02 Inserted data for snapshot 41
+2025-12-12T13:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-12T13:00:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251212T130001.json
+2025-12-12T13:00:02 Using snapshot_id=42
+2025-12-12T13:00:02 Inserted data for snapshot 42
+2025-12-12T13:30:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-12T13:30:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251212T133001.json
+2025-12-12T13:30:02 Using snapshot_id=43
+2025-12-12T13:30:02 Inserted data for snapshot 43
+2025-12-12T14:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-12T14:00:03 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251212T140001.json
+2025-12-12T14:00:03 Using snapshot_id=44
+2025-12-12T14:00:03 Inserted data for snapshot 44
+2025-12-12T21:00:02 Downloading data from CoinGecko (attempt 1)...
+2025-12-12T21:00:03 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251212T210002.json
+2025-12-12T21:00:04 Using snapshot_id=45
+2025-12-12T21:00:04 Inserted data for snapshot 45
+2025-12-13T00:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-13T00:00:03 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251213T000001.json
+2025-12-13T00:00:03 Using snapshot_id=46
+2025-12-13T00:00:04 Inserted data for snapshot 46
+2025-12-13T12:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-13T12:00:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251213T120001.json
+2025-12-13T12:00:03 Using snapshot_id=47
+2025-12-13T12:00:03 Inserted data for snapshot 47
+2025-12-13T12:30:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-13T12:30:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251213T123001.json
+2025-12-13T12:30:02 Using snapshot_id=48
+2025-12-13T12:30:02 Inserted data for snapshot 48
+2025-12-13T13:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-13T13:00:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251213T130001.json
+2025-12-13T13:00:02 Using snapshot_id=49
+2025-12-13T13:00:02 Inserted data for snapshot 49
+2025-12-13T13:30:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-13T13:30:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251213T133001.json
+2025-12-13T13:30:02 Using snapshot_id=50
+2025-12-13T13:30:03 Inserted data for snapshot 50
+2025-12-13T14:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-13T14:00:03 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251213T140001.json
+2025-12-13T14:00:03 Using snapshot_id=51
+2025-12-13T14:00:03 Inserted data for snapshot 51
+2025-12-13T21:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-13T21:00:03 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251213T210001.json
+2025-12-13T21:00:03 Using snapshot_id=52
+2025-12-13T21:00:03 Inserted data for snapshot 52
+2025-12-14T00:00:02 Downloading data from CoinGecko (attempt 1)...
+2025-12-14T00:00:03 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251214T000002.json
+2025-12-14T00:00:03 Using snapshot_id=53
+2025-12-14T00:00:04 Inserted data for snapshot 53
+2025-12-14T12:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-14T12:00:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251214T120001.json
+2025-12-14T12:00:02 Using snapshot_id=54
+2025-12-14T12:00:02 Inserted data for snapshot 54
+2025-12-14T12:30:00 Downloading data from CoinGecko (attempt 1)...
+2025-12-14T12:30:01 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251214T123000.json
+2025-12-14T12:30:01 Using snapshot_id=55
+2025-12-14T12:30:01 Inserted data for snapshot 55
+2025-12-14T13:00:00 Downloading data from CoinGecko (attempt 1)...
+2025-12-14T13:00:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251214T130000.json
+2025-12-14T13:00:02 Using snapshot_id=56
+2025-12-14T13:00:02 Inserted data for snapshot 56
+2025-12-14T13:30:02 Downloading data from CoinGecko (attempt 1)...
+2025-12-14T13:30:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251214T133001.json
+2025-12-14T13:30:02 Using snapshot_id=57
+2025-12-14T13:30:02 Inserted data for snapshot 57
+2025-12-14T14:00:00 Downloading data from CoinGecko (attempt 1)...
+2025-12-14T14:00:01 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251214T140000.json
+2025-12-14T14:00:01 Using snapshot_id=58
+2025-12-14T14:00:01 Inserted data for snapshot 58
+2025-12-14T21:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-14T21:00:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251214T210001.json
+2025-12-14T21:00:02 Using snapshot_id=59
+2025-12-14T21:00:02 Inserted data for snapshot 59
+2025-12-14T21:08:46 Downloading data from CoinGecko (attempt 1)...
+2025-12-14T21:08:46 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251214T210846.json
+2025-12-14T21:08:47 Using snapshot_id=60
+2025-12-14T21:08:47 Inserted data for snapshot 60
+2025-12-15T00:00:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-15T00:00:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251215T000001.json
+2025-12-15T00:00:01 Using snapshot_id=61
+2025-12-15T00:00:01 Inserted data for snapshot 61
+2025-12-15T01:05:01 Downloading data from CoinGecko (attempt 1)...
+2025-12-15T01:05:02 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251215T010501.json
+2025-12-15T01:05:02 Using snapshot_id=62
+2025-12-15T01:05:02 Inserted data for snapshot 62
+
+2025-12-15T14:58:14 Downloading data from CoinGecko (attempt 1)...
+2025-12-15T14:58:15 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251215T145814.json
+2025-12-15T14:58:15 Using snapshot_id=5
+2025-12-15T14:58:15 Inserted data for snapshot 5
+2025-12-15T15:01:56 Downloading data from CoinGecko (attempt 1)...
+2025-12-15T15:01:56 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251215T150156.json
+2025-12-15T15:01:56 Using snapshot_id=6
+2025-12-15T15:01:56 Inserted data for snapshot 6
+2025-12-15T15:01:56 Downloading data from CoinGecko (attempt 1)...
+2025-12-15T15:01:56 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251215T150156.json
+2025-12-15T15:01:56 Using snapshot_id=7
+2025-12-15T15:01:57 Inserted data for snapshot 7
+2025-12-15T15:01:57 Downloading data from CoinGecko (attempt 1)...
+2025-12-15T15:01:57 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251215T150157.json
+2025-12-15T15:01:57 Using snapshot_id=8
+2025-12-15T15:01:57 Inserted data for snapshot 8
+2025-12-15T15:05:54 Downloading data from CoinGecko (attempt 1)...
+2025-12-15T15:05:54 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251215T150554.json
+2025-12-15T15:05:54 Using snapshot_id=61
+2025-12-15T15:05:54 Inserted data for snapshot 61
+2025-12-15T15:06:44 Downloading data from CoinGecko (attempt 1)...
+2025-12-15T15:06:44 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251215T150644.json
+2025-12-15T15:06:44 Using snapshot_id=62
+2025-12-15T15:06:44 Inserted data for snapshot 62
+2025-12-15T15:12:45 Downloading data from CoinGecko (attempt 1)...
+2025-12-15T15:12:46 Saved pretty JSON to /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Data/crypto_20251215T151245.json
+2025-12-15T15:12:46 Using snapshot_id=63
+2025-12-15T15:12:46 Inserted data for snapshot 63

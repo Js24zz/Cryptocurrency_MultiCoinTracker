@@ -1,0 +1,65 @@
+==============================================
+CRYPTO PIPELINE HEALTH CHECK   Mon Dec 15 01:05:07 +08 2025
+Project: /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker
+==============================================
+
+[1] Latest snapshot + number of coin rows (expect 10)
+latest_snapshot_id	snapshot_time	rows_in_coin_prices
+62	2025-12-15 01:05:01	10
+
+[2] Total records in DB
+total_snapshots	total_coin_prices
+29	290
+
+[3] Latest snapshot table (10 coins)
++---------------------+------+----------------+----------------+----------------+----------------+
+| Snapshot_Time       | Coin | Price_USD      | Low_24h_USD    | High_24h_USD   | Change_24h_Pct |
++---------------------+------+----------------+----------------+----------------+----------------+
+| 2025-12-15 01:05:01 | ADA  |     0.39967000 |     0.39898600 |     0.41199400 |          -2.99 |
+| 2025-12-15 01:05:01 | BNB  |   886.91000000 |   883.97000000 |   899.16000000 |          -1.25 |
+| 2025-12-15 01:05:01 | BTC  | 88972.00000000 | 88776.00000000 | 90469.00000000 |          -1.25 |
+| 2025-12-15 01:05:01 | DOGE |     0.13552500 |     0.13519200 |     0.13943500 |          -2.80 |
+| 2025-12-15 01:05:01 | ETH  |  3098.83000000 |  3073.73000000 |  3127.96000000 |          -0.22 |
+| 2025-12-15 01:05:01 | LINK |    13.49000000 |    13.45000000 |    13.78000000 |          -1.96 |
+| 2025-12-15 01:05:01 | LTC  |    79.35000000 |    78.88000000 |    81.91000000 |          -3.12 |
+| 2025-12-15 01:05:01 | SOL  |   131.00000000 |   130.58000000 |   133.48000000 |          -1.57 |
+| 2025-12-15 01:05:01 | TRX  |     0.27666400 |     0.27081000 |     0.27664500 |           1.69 |
+| 2025-12-15 01:05:01 | XRP  |     2.00000000 |     1.99000000 |     2.03000000 |          -1.35 |
++---------------------+------+----------------+----------------+----------------+----------------+
+
+[4] Plot outputs
+Total PNG plots: 16
+Latest 8 plots:
+-rwxrwxrwx 1 yeonj yeonj  72089 Dec 15 01:05 /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_volume24h.png
+-rwxrwxrwx 1 yeonj yeonj  94342 Dec 15 01:05 /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_volume24h.png
+-rwxrwxrwx 1 yeonj yeonj  74159 Dec 15 01:05 /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_marketcap.png
+-rwxrwxrwx 1 yeonj yeonj  78152 Dec 15 01:05 /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_marketcap.png
+-rwxrwxrwx 1 yeonj yeonj 100854 Dec 15 01:05 /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+-rwxrwxrwx 1 yeonj yeonj  96792 Dec 15 01:05 /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+-rwxrwxrwx 1 yeonj yeonj  86544 Dec 15 01:05 /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+-rwxrwxrwx 1 yeonj yeonj  98966 Dec 15 01:05 /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+
+[5] Clean table file (last 20 lines)
+
+
+===================================================================
+Crypto Prices Snapshot: 2025-12-15 01:05:07
+Source JSON: crypto_20251215T010501.json
+
+ID           Symbol   Name                  Price_USD      Market_Cap      Volume_24h        High_24h         Low_24h     Change_24h%
+------------ -------- --------------- --------------- --------------- --------------- --------------- --------------- ---------------
+bitcoin      btc      Bitcoin                   88972   1775302462443     33966432815           90469           88776         -1.2474
+ethereum     eth      Ethereum                3098.83    374210364087     13091538578         3127.96         3073.73        -0.21678
+binancecoin  bnb      BNB                      886.91    122159566116       916805575          899.16          883.97        -1.25116
+ripple       xrp      XRP                         2.0    120535802275      1414562384            2.03            1.99        -1.34671
+solana       sol      Solana                    131.0     73629419626      2529517710          133.48          130.58        -1.56977
+tron         trx      TRON                   0.276664     26195065366       488479869        0.276645         0.27081         1.69322
+dogecoin     doge     Dogecoin               0.135525     22754908298       617453436        0.139435        0.135192        -2.80447
+cardano      ada      Cardano                 0.39967     14647897856       479008955        0.411994        0.398986        -2.99125
+chainlink    link     Chainlink                 13.49      9403922778       319589150           13.78           13.45        -1.96144
+litecoin     ltc      Litecoin                  79.35      6080058013       334924744           81.91           78.88        -3.12425
+
+
+
+✅ Health check complete.
+

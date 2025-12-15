@@ -1,0 +1,360 @@
+2025-12-12T00:00:01 Generating price plots for 10 cryptocurrencies...
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for bitcoin (price). Skipping.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for ethereum (price). Skipping.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for solana (price). Skipping.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for binancecoin (price). Skipping.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for ripple (price). Skipping.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for cardano (price). Skipping.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for dogecoin (price). Skipping.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for tron (price). Skipping.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for chainlink (price). Skipping.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for litecoin (price). Skipping.
+2025-12-12T00:00:02 Generating 24h change plots (BTC, ETH)...
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for bitcoin (24h change). Skipping.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+2025-12-12T00:00:02 No data for ethereum (24h change). Skipping.
+2025-12-12T00:00:02 Finished generating plots.
+2025-12-12T12:00:01 Generating price plots for 10 cryptocurrencies...
+2025-12-12T12:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-12T12:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-12T12:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-12T12:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-12T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-12T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-12T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-12T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-12T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-12T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-12T12:00:02 Generating 24h change plots (BTC, ETH)...
+2025-12-12T12:00:02 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-12T12:00:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-12T12:00:03 Finished generating plots.
+2025-12-12T12:30:01 Generating price plots for 10 cryptocurrencies...
+2025-12-12T12:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-12T12:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-12T12:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-12T12:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-12T12:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-12T12:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-12T12:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-12T12:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-12T12:30:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-12T12:30:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-12T12:30:04 Generating 24h change plots (BTC, ETH)...
+2025-12-12T12:30:04 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-12T12:30:04 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-12T12:30:04 Finished generating plots.
+2025-12-12T13:00:01 Generating price plots for 10 cryptocurrencies...
+2025-12-12T13:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-12T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-12T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-12T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-12T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-12T13:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-12T13:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-12T13:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-12T13:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-12T13:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-12T13:00:03 Generating 24h change plots (BTC, ETH)...
+2025-12-12T13:00:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-12T13:00:04 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-12T13:00:04 Finished generating plots.
+2025-12-12T13:30:01 Generating price plots for 10 cryptocurrencies...
+2025-12-12T13:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-12T13:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-12T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-12T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-12T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-12T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-12T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-12T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-12T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-12T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-12T13:30:03 Generating 24h change plots (BTC, ETH)...
+2025-12-12T13:30:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-12T13:30:04 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-12T13:30:04 Finished generating plots.
+2025-12-12T14:00:01 Generating price plots for 10 cryptocurrencies...
+2025-12-12T14:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-12T14:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-12T14:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-12T14:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-12T14:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-12T14:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-12T14:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-12T14:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-12T14:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-12T14:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-12T14:00:03 Generating 24h change plots (BTC, ETH)...
+2025-12-12T14:00:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-12T14:00:04 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-12T14:00:04 Finished generating plots.
+2025-12-12T21:00:02 Generating price plots for 10 cryptocurrencies...
+2025-12-12T21:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-12T21:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-12T21:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-12T21:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-12T21:00:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-12T21:00:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-12T21:00:06 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-12T21:00:06 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-12T21:00:06 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-12T21:00:07 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-12T21:00:07 Generating 24h change plots (BTC, ETH)...
+2025-12-12T21:00:07 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-12T21:00:08 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-12T21:00:08 Finished generating plots.
+2025-12-13T00:00:01 Generating price plots for 10 cryptocurrencies...
+2025-12-13T00:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-13T00:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-13T00:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-13T00:00:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-13T00:00:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-13T00:00:06 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-13T00:00:06 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-13T00:00:07 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-13T00:00:08 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-13T00:00:08 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-13T00:00:08 Generating 24h change plots (BTC, ETH)...
+2025-12-13T00:00:08 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-13T00:00:09 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-13T00:00:09 Finished generating plots.
+2025-12-13T12:00:01 Generating price plots for 10 cryptocurrencies...
+2025-12-13T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-13T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-13T12:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-13T12:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-13T12:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-13T12:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-13T12:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-13T12:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-13T12:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-13T12:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-13T12:00:04 Generating 24h change plots (BTC, ETH)...
+2025-12-13T12:00:05 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-13T12:00:05 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-13T12:00:05 Finished generating plots.
+2025-12-13T12:30:01 Generating price plots for 10 cryptocurrencies...
+2025-12-13T12:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-13T12:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-13T12:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-13T12:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-13T12:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-13T12:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-13T12:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-13T12:30:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-13T12:30:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-13T12:30:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-13T12:30:04 Generating 24h change plots (BTC, ETH)...
+2025-12-13T12:30:05 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-13T12:30:05 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-13T12:30:05 Finished generating plots.
+2025-12-13T13:00:01 Generating price plots for 10 cryptocurrencies...
+2025-12-13T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-13T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-13T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-13T13:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-13T13:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-13T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-13T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-13T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-13T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-13T13:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-13T13:00:03 Generating 24h change plots (BTC, ETH)...
+2025-12-13T13:00:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-13T13:00:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-13T13:00:03 Finished generating plots.
+2025-12-13T13:30:01 Generating price plots for 10 cryptocurrencies...
+2025-12-13T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-13T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-13T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-13T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-13T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-13T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-13T13:30:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-13T13:30:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-13T13:30:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-13T13:30:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-13T13:30:05 Generating 24h change plots (BTC, ETH)...
+2025-12-13T13:30:05 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-13T13:30:05 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-13T13:30:05 Finished generating plots.
+2025-12-13T14:00:01 Generating price plots for 10 cryptocurrencies...
+2025-12-13T14:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-13T14:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-13T14:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-13T14:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-13T14:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-13T14:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-13T14:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-13T14:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-13T14:00:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-13T14:00:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-13T14:00:05 Generating 24h change plots (BTC, ETH)...
+2025-12-13T14:00:06 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-13T14:00:06 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-13T14:00:06 Finished generating plots.
+2025-12-13T21:00:01 Generating price plots for 10 cryptocurrencies...
+2025-12-13T21:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-13T21:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-13T21:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-13T21:00:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-13T21:00:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-13T21:00:06 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-13T21:00:06 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-13T21:00:07 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-13T21:00:08 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-13T21:00:08 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-13T21:00:08 Generating 24h change plots (BTC, ETH)...
+2025-12-13T21:00:09 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-13T21:00:10 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-13T21:00:10 Finished generating plots.
+2025-12-14T00:00:02 Generating price plots for 10 cryptocurrencies...
+2025-12-14T00:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-14T00:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-14T00:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-14T00:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-14T00:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-14T00:00:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-14T00:00:05 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-14T00:00:06 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-14T00:00:06 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-14T00:00:06 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-14T00:00:06 Generating 24h change plots (BTC, ETH)...
+2025-12-14T00:00:06 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-14T00:00:07 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-14T00:00:07 Finished generating plots.
+2025-12-14T12:00:01 Generating price plots for 10 cryptocurrencies...
+2025-12-14T12:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-14T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-14T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-14T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-14T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-14T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-14T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-14T12:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-14T12:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-14T12:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-14T12:00:03 Generating 24h change plots (BTC, ETH)...
+2025-12-14T12:00:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-14T12:00:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-14T12:00:03 Finished generating plots.
+2025-12-14T12:30:00 Generating price plots for 10 cryptocurrencies...
+2025-12-14T12:30:00 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-14T12:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-14T12:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-14T12:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-14T12:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-14T12:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-14T12:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-14T12:30:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-14T12:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-14T12:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-14T12:30:02 Generating 24h change plots (BTC, ETH)...
+2025-12-14T12:30:02 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-14T12:30:02 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-14T12:30:02 Finished generating plots.
+2025-12-14T13:00:00 Generating price plots for 10 cryptocurrencies...
+2025-12-14T13:00:00 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-14T13:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-14T13:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-14T13:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-14T13:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-14T13:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-14T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-14T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-14T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-14T13:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-14T13:00:02 Generating 24h change plots (BTC, ETH)...
+2025-12-14T13:00:02 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-14T13:00:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-14T13:00:03 Finished generating plots.
+2025-12-14T13:30:02 Generating price plots for 10 cryptocurrencies...
+2025-12-14T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-14T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-14T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-14T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-14T13:30:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-14T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-14T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-14T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-14T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-14T13:30:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-14T13:30:03 Generating 24h change plots (BTC, ETH)...
+2025-12-14T13:30:04 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-14T13:30:04 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-14T13:30:04 Finished generating plots.
+2025-12-14T14:00:00 Generating price plots for 10 cryptocurrencies...
+2025-12-14T14:00:00 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-14T14:00:00 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-14T14:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-14T14:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-14T14:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-14T14:00:01 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-14T14:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-14T14:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-14T14:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-14T14:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-14T14:00:02 Generating 24h change plots (BTC, ETH)...
+2025-12-14T14:00:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-14T14:00:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-14T14:00:03 Finished generating plots.
+2025-12-14T21:00:01 Generating price plots for 10 cryptocurrencies...
+2025-12-14T21:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-14T21:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-14T21:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-14T21:00:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-14T21:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-14T21:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-14T21:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-14T21:00:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-14T21:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-14T21:00:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-14T21:00:04 Generating 24h change plots (BTC, ETH)...
+2025-12-14T21:00:04 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-14T21:00:04 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-14T21:00:04 Finished generating plots.
+2025-12-15T00:02:01 Generating price plots for 10 cryptocurrencies...
+2025-12-15T00:02:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_price.png
+2025-12-15T00:02:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_price.png
+2025-12-15T00:02:02 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/SOL_price.png
+2025-12-15T00:02:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BNB_price.png
+2025-12-15T00:02:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/XRP_price.png
+2025-12-15T00:02:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ADA_price.png
+2025-12-15T00:02:03 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/DOGE_price.png
+2025-12-15T00:02:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/TRX_price.png
+2025-12-15T00:02:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LINK_price.png
+2025-12-15T00:02:04 Saved price plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/LTC_price.png
+2025-12-15T00:02:04 Generating 24h change plots (BTC, ETH)...
+2025-12-15T00:02:04 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_change24.png
+2025-12-15T00:02:03 Saved 24h change plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_change24.png
+2025-12-15T00:02:03 Generating market cap plots (BTC, ETH)...
+2025-12-15T00:02:03 Saved market cap plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_marketcap.png
+2025-12-15T00:02:04 Saved market cap plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_marketcap.png
+2025-12-15T00:02:04 Generating 24h volume plots (BTC, ETH)...
+2025-12-15T00:02:04 Saved 24h volume plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/BTC_volume24h.png
+2025-12-15T00:02:04 Saved 24h volume plot → /mnt/c/Users/yeonj/OneDrive/Cryptocurrency_MultiCoinTracker/Plots/ETH_volume24h.png
+2025-12-15T00:02:04 Finished generating plots.
